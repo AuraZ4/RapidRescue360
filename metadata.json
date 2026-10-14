@@ -1,0 +1,6 @@
+{
+  "name": "Rapid Rescue 360°",
+  "description": "Connected 3D emergency response, live rescue tracking, blood donation network, missing persons registry, and volunteer command platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
